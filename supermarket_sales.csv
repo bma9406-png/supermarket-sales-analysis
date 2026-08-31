@@ -1,0 +1,11 @@
+﻿Invoice_ID,Branch,City,Customer_Type,Gender,Product_Line,Unit_Price,Quantity,Tax,Total,Date,Payment,Rating
+1001,A,Hyderabad,Member,Male,Electronics,500,2,50,1050,01-01-2025,Cash,8.5
+1002,B,Mumbai,Normal,Female,Grocery,200,5,50,1050,02-01-2025,Card,7.8
+1003,C,Delhi,Member,Female,Fashion,800,1,40,840,03-01-2025,UPI,9.2
+1004,A,Hyderabad,Normal,Male,Grocery,150,4,30,630,04-01-2025,Cash,8
+1005,B,Mumbai,Member,Female,Electronics,700,3,105,2205,05-01-2025,Card,9.5
+1006,C,Delhi,Normal,Male,Sports,400,2,40,840,06-01-2025,UPI,7.9
+1007,A,Hyderabad,Member,Female,Fashion,900,2,90,1890,07-01-2025,Cash,9
+1008,B,Mumbai,Normal,Male,Sports,350,4,70,1470,08-01-2025,Card,8.2
+1009,C,Delhi,Member,Female,Grocery,250,6,75,1575,09-01-2025,UPI,8.7
+1010,A,Hyderabad,Normal,Male,Electronics,650,1,32,682.5,10-01-2025,Cash,8.4
